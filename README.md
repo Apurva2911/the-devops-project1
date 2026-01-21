@@ -1,7 +1,5 @@
 # DevOps Flask Dashboard
 
-**Author:** [Atul Kamble](https://github.com/atulkamble) | [LinkedIn](https://www.linkedin.com/in/atuljkamble/)
-
 ## 🚀 Quick Run Instructions
 
 ### Local Development
