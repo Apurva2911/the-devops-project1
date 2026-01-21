@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: flask-app
-          image: apurva2911/flask-app:latest # Docker image pushed from Jenkins
+          image: apurva2911/flask-app:latest  # Docker image pushed by Jenkins
           ports:
             - containerPort: 5000
           resources:
